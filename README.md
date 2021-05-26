@@ -8,7 +8,7 @@
 
 <br/>
 <a href="https://www.linkedin.com/in/siayush/"><img src="https://img.shields.io/badge/-siayush-blue?style=curved-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siayush/"></a>
-<a href="mailto:siayush.gupta@gmail.com"><img src="https://img.shields.io/badge/-siayush.gupta@gmail.com-c14438?style=curved-square&logo=Gmail&logoColor=white&link=mailto:siayush.gupta@gmail.com"></a>
+<a href="mailto:siayush.gupta@gmail.com"><img src="gmail.svg"></a>
 <a href="https://twitter.com/siAyushh"><img src="https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=%20%40%20siAyushh"></a>
 
 I'm a software engineer who is passionate about machine learning and deep learning. I love engaging myself in side-projects for the purpose of learning new tools and technologies. Technologies I enjoy working with include Tensorflow, Keras, Numpy and WebDev sometimes.
