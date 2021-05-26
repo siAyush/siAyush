@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=siAyush" alt="siAyush" />
 
 <br/>
-<a href="https://www.linkedin.com/in/siayush/"><img src="linkedin.svg", width="40" height="40""></a>
+<a href="https://www.linkedin.com/in/siayush/"><img src="linkedin.svg", width="35" height="35"></a>
 <a href="mailto:siayush.gupta@gmail.com"><img src="gmail.svg", width="40" height="40"></a>
 <a href="https://twitter.com/siAyushh"><img src="twitter.svg", width="40" height="40"></a>
 
