@@ -1,4 +1,4 @@
-<h1 align="center">Hey! I'm Ayush Gupta<img src="wave.gif" width="30px"></h1>
+<h1 align="center">Hi there, I am Ayush<img src="wave.gif" width="30px"></h1>
 
 <h3 align="center">A Computer Science Undergrad</h3>
 
