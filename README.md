@@ -1,4 +1,5 @@
-<h1 align="center">Hi there, I am Ayush<img src="wave.gif" width="30px"></h1>
+<!-- <h1 align="center">Hi there, I am Ayush<img src="wave.gif" width="30px"></h1> -->
+<h1 align="center">Hi there, I am Ayush</h1>
 
 <h3 align="center">A Computer Science Undergrad</h3>
 
@@ -13,7 +14,8 @@
 
 I'm a software engineer who is passionate about machine learning and deep learning. I love engaging myself in side-projects for the purpose of learning new tools and technologies. Technologies I enjoy working with include Tensorflow, Keras, Numpy and WebDev sometimes.
 
-<h2 align="center"><img src="bolt.gif" width="30px">What I've worked with</h2>
+<!-- <h2 align="center"><img src="bolt.gif" width="30px">What I've worked with</h2> -->
+<h2 align="center">What I've worked with</h2>
 <p align="center">
     <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
