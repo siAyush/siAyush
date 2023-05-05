@@ -1,5 +1,5 @@
 <!-- <h1 align="center">Hi there, I am Ayush<img src="wave.gif" width="30px"></h1> -->
-<h1 align="center">Hi there, I am Ayush</h1>
+<h1 align="center">Hi there 👋 I'm Ayush👨‍💻</h1>
 
 <!-- <h3 align="center">A Computer Science Undergrad</h3> -->
 
