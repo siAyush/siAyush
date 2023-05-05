@@ -18,8 +18,9 @@ I'm a software engineer who is passionate about machine learning and deep learni
 <!-- <h2 align="center">What I've worked with</h2> -->
 <p align='center'>
 <picture>
-<img src="https://github-readme-stats.vercel.app/api?username=siAyush&show_icons=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=siAyush&show_icons=true&count_private=true&theme=transparent&title_color=FFFFFF&text_color=FFFFFF" />
 </picture>
+
 <p align="center">
 <!--     <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
