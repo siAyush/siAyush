@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Ayush👨‍💻</h1>
 
 <p align="center">
-I am a software engineer passionate about software engineering, machine learning, and deep learning. I enjoy engaging in side projects to learn new tools and technologies.
+I am a software engineer passionate about software engineering, backend, and low-level stuff. I enjoy engaging in side projects to learn new tools and technologies.
 <p align='center'>
 
 <!-- <picture> -->
