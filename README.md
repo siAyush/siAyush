@@ -1,8 +1,12 @@
-<h1 align="center">Hi there 👋 I'm Ayush👨‍💻</h1>
 
-<p align="center">
-I am a software engineer passionate about software engineering, backend, and low-level stuff. I enjoy engaging in side projects to learn new tools and technologies.
-<p align='center'>
+
+```
+I'm Ayush
+---------
+> work as a fullstack dev as my day job
+> learning low-level and systems programming
+> can code in c, go, js, ts python, 
+```
 
 <!-- <picture> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=siAyush&show_icons=true&count_private=true&theme=transparent&title_color=FFFFFF&text_color=FFFFFF" /> -->
