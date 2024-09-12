@@ -5,7 +5,7 @@ I'm Ayush
 ---------
 > work as a fullstack dev as my day job
 > learning low-level and systems programming
-> can code in c, go, js, ts python, 
+> can code in c, go, js, ts python
 ```
 
 <!-- <picture> -->
